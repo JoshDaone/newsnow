@@ -5,4 +5,4 @@ compatibility_date = "2024-10-03"
 [[d1_databases]]
 binding = "NEWSNOW_DB"
 database_name = "orange-credit-b3cc"
-database_id = ""
+database_id = "05f9d183-3d79-417d-8522-1126b673664c"
